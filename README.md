@@ -1,2 +1,2 @@
-# global_state
+# atomic
 Created with CodeSandbox
