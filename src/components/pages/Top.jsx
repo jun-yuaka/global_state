@@ -12,7 +12,6 @@ export const Top = () => {
     setUserInfo({ isAdmin: true });
     history.push("/users");
   };
-
   const onClickGeneral = () => {
     setUserInfo({ isAdmin: false });
     history.push("/users");
